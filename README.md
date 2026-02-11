@@ -27,4 +27,4 @@ Stosowane są standardowe środki bezpieczeństwa, aby chronić dane przed nieau
 7. Ochrona prywatności dzieci
 Aplikacja nie jest skierowana do dzieci poniżej 13. roku życia (lub 16. w niektórych jurysdykcjach). Nie są zbierane świadomie dane osobowe od dzieci.
 8. Kontakt
-W przypadku pytań prosimy o kontakt.
+W przypadku pytań prosimy o kontakt: djfokus176@gmail.com
